@@ -32,6 +32,12 @@
       <scope>test</scope>
     </dependency>
     
+    <!-- https://mvnrepository.com/artifact/jakarta.xml.bind/jakarta.xml.bind-api-test -->
+<dependency>
+    <groupId>jakarta.xml.bind</groupId>
+    <artifactId>jakarta.xml.bind-api-test</artifactId>
+    <version>3.0.1</version>
+</dependency>
     
   </dependencies>
   
